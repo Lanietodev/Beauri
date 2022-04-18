@@ -60,6 +60,7 @@ h2{
   width: 32%;
   display: inline-block;
   font-size: 16px;
+ color:white;
 }
 .featur img{
   width: 40%;
@@ -136,9 +137,9 @@ footer li a:hover{
   .featur{
     width: 100%;
     display: block;
-    
-    
-    
+    align-content:center;
+    justify-content:center;
+    text-align:left;
     margin: 0 0 10px 0;
     font-size: 16px;
   }

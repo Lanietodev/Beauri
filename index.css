@@ -136,10 +136,10 @@ footer li a:hover{
     padding: 25px 0 15px ;
   }
   .featur{
-    width: 100%;
-    display: flex;
+  width: 100%;
+   /* display: flex;
     align-items:center;
-    justify-content:center;
+    justify-content:center; */
     text-align:center;
     margin: 0 0 10px 0;
     font-size: 16px;
@@ -147,7 +147,7 @@ footer li a:hover{
   .featur img {
     width: 15%;
     min-width:60px;
-    margin-right: 20px;
+  /*  margin-right: 20px; */
   }
   .quote{
     padding: 30px 0;

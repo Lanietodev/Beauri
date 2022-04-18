@@ -109,7 +109,8 @@ footer li a:hover{
 
 @media screen 
 
-  and (max-width: 550px)
+  and (max-width: 480px)
+ and (min-width: 320px)
 
 
 
@@ -137,7 +138,7 @@ footer li a:hover{
   .featur{
     width: 100%;
     display: flex;
-    align-content:center;
+    align-items:center;
     justify-content:center;
     text-align:center;
     margin: 0 0 10px 0;

@@ -136,10 +136,10 @@ footer li a:hover{
   }
   .featur{
     width: 100%;
-    display: block;
+    display: flex;
     align-content:center;
     justify-content:center;
-    text-align:left;
+    text-align:center;
     margin: 0 0 10px 0;
     font-size: 16px;
   }
